@@ -1,0 +1,28 @@
+lyrics-container {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .lyrics {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .image-container {
+    margin-right: 20px;
+  }
+  
+  .image-container img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .lyrics-text {
+    text-align: left;
+}
+
+.lyrics-text p {
+  margin: 10px 0;
+}
